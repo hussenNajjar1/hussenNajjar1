@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 مرحبًا، أنا حسين النجار
 
-<!--
-**hussenNajjar1/hussenNajjar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 مطور ويب | 🚀 مهتم بتطوير التطبيقات الحديثة | 📚 شغوف بالتعلم المستمر
 
-Here are some ideas to get you started:
+## 🛠️ المهارات والتقنيات:
+- **اللغات**: JavaScript, TypeScript, PHP, C#
+- **التقنيات**: Next.js, React, Laravel, Tailwind CSS, Livewire
+- **قواعد البيانات**: MongoDB, MySQL, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 إحصائيات GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussenNajjar1&show_icons=true&theme=radical)
+
+## 📫 تواصل معي:
+- 📧 Email: [hussen.najjar@example.com](mailto:hussen.najjar@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar)
