@@ -11,7 +11,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussenNajjar1&show_icons=true&theme=radical)
 
 ## 📫 تواصل معي:
-- 📧 Email: [hussen.najjar@example.com](mailto:hussen.najjar@example.com)
-- 🔗 instagram: [[linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar](https://www.instagram.com/hussen.najjar?igsh=aDI3NGJjeXNhandw))
-- 🔗 LinkedIn: [[linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar-92778b265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- 
+## 📫 تواصل معي:
+- 📧 **Email**: [njarh315@gmail.com](mailto:njarh315@gmail.com)
+- 🔗 **Instagram**: [hussen.najjar](https://www.instagram.com/hussen.najjar?igsh=aDI3NGJjeXNhandw)
+- 🔗 **LinkedIn**: [Hussen Najjar](https://www.linkedin.com/in/hussen-najjar-92778b265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
