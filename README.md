@@ -12,4 +12,6 @@
 
 ## 📫 تواصل معي:
 - 📧 Email: [hussen.najjar@example.com](mailto:hussen.najjar@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar)
+- 🔗 instagram: [[linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar](https://www.instagram.com/hussen.najjar?igsh=aDI3NGJjeXNhandw))
+- 🔗 LinkedIn: [[linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar](https://www.linkedin.com/in/hussen-najjar-92778b265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 
